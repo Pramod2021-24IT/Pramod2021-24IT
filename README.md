@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Data Science**
 
-- 👨‍💻 All of my projects are available at [Pramod2021-24IT](Pramod2021-24IT)
+- 👨‍💻 All of my projects are available at **[Github](Pramod2021-24IT)**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/pramodmaurya9621/](https://www.linkedin.com/in/pramodmaurya9621/)
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/pramodmaurya9621/)**
 
-- 💬 Ask me about **via mailing**
+- 💬 Ask me about **Data Analytics & Data Science**
 
-- 📫 How to reach me **pramod.maurya12321@gmail.com**
+- 📫 How to reach me **[Email](pramod.maurya12321@gmail.com)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mG76Eb8tuYfufPm-5sH3JIR4jV9I9osh/view?usp=sharing](https://drive.google.com/file/d/1mG76Eb8tuYfufPm-5sH3JIR4jV9I9osh/view?usp=sharing)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1mG76Eb8tuYfufPm-5sH3JIR4jV9I9osh/view?usp=sharing)**
 
 - ⚡ Fun fact **I am about to become an Engineer.**
 
