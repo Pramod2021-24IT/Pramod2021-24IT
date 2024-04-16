@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **[Email](pramod.maurya12321@gmail.com)**
 
-- 📄 Know about my experiences **[Resume]([https://drive.google.com/file/d/1mG76Eb8tuYfufPm-5sH3JIR4jV9I9osh/view?usp=sharing](https://drive.google.com/file/d/1Hf6j8AWViD-J8l4bh6eUR7LI6WeJZB0b/view?usp=sharing))**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1mG76Eb8tuYfufPm-5sH3JIR4jV9I9osh/view?usp=sharing](https://drive.google.com/file/d/1Hf6j8AWViD-J8l4bh6eUR7LI6WeJZB0b/view?usp=sharing)**
 
 - ⚡ Fun fact **I am about to become an Engineer.**
 
