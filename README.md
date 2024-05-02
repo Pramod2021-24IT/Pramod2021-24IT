@@ -24,7 +24,6 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 📞 Book Your 1:1 Call with Me For **Career Guidance**
   
 - 👨‍💻 Check My! [**CodingProfile**](https://linktr.ee/pramodmaurya).
-  ![pramodmaurya](https://github.com/Pramod2021-24IT/Pramod2021-24IT/assets/95674009/77fa8226-7cc1-4a58-bacd-7e236b04db91)
 
 - 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
   <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
@@ -85,110 +84,23 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ----------------------------------------------------------------------------------------------
 
 
-  
 
-<p align="center">
-    <a href="https://www.youtube.com/PrinceSinghCSE" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Prince Singh" />
- </a> 
- <a href="https://www.linkedin.com/in/prince-singh-314a65187/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Prince Singh"/>
- </a>
- <a href="https://github.com/PrinceSinghhub" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PrinceSinghhub" />
- </a>
- <a href="https://twitter.com/NowPrinceSingh" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/princesinghcse" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Singh" />
- </a> 
-    <a href="https://topmate.io/itsprincesingh" target="blank">
-  <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
- </a>
-   <a href="mailto:princesingh.cse.2020@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Singh" />
- </a> 
-</p>
-
-   
-
-<!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
-
-
-<!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
-
-
-## ❤️ I'm Code on (DSA)
-
-<p align="left"> 
-<img src="lc.png" height="40px" width="40px">
-<img src="gfg.png" height="40px" width="40px">
-<img src="ib.png" height="40px" width="40px">
-<img src="cn.png" height="40px" width="40px">
-<img src="hr.png" height="40px" width="40px">
-<img src="he.png" height="40px" width="40px"> 
-<img src="cc.png" height="40px" width="40px">
-<img src="cf.png" height="40px" width="40px">
-<img src="wk.png" height="40px" width="40px">
-
-</p> 
 
 ## All DSA Badges @LeetCode
 
-<img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-12.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-11.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-09.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-08.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-07.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-06.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-05.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-03.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-02.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-01.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-12.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-11.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-10.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-09.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-08.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-07.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-06.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-05.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-04.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-03.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-02.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/LC-75.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/DS_II.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%85%A5%E9%97%A8.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/algorithm_II.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/DP_I.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/DS_I.png" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" width="40px"></img>
 
 ## ⭐ Summarized My All Achievements 🎉
 
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------| 
-| 💥 50DaysOfCode+ on @LeetCode  | ⭐ Top performer in College "Rank 1" [Acadiemic & Coding ] |
-| 💥 50DaysOfCode+ on @CodeStudio | ⭐ 49K+ Followers on LinkedIn |
-| 💥 50DaysOfCode+ on @GeeksForGeeks | ⭐ 8M+ Views on LinkedIn |
+| 💥 50DaysOfCode+ on @LeetCode  | ⭐  |
+| 💥 50DaysOfCode+ on @CodeStudio | ⭐ 1K+ Followers on LinkedIn |
+| 💥 50DaysOfCode+ on @GeeksForGeeks | ⭐ 5k+ Views on LinkedIn |
 
 ## DSA 🏆 Achievements
 
@@ -197,15 +109,13 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 I'm thrilled to showcase my dedication and passion for problem-solving in the world of coding. Here's a snapshot of my achievements across various coding platforms and <b>💥 I have Solved Thousand of DSA Problems on, Different-Different Coding Platforms </b>
 
 **LeetCode 🏆**
+- 200+ problems solved
 
 **GeeksForGeeks 🏆**
-- GeeksForGeeks: 1300+ problems solved, Global Rank 100 and Monthly Rank 99 with the Score of 4000+, and Instutie Rank 1🔥.
+- 200+ problems solved and Instutie Rank 62🔥.
 
-**Codechef 🏆**
-- CodeStudio: 2000+ problems solved with 100000+ Coding Score, including in the top 0.5% 🌟.
-
-
-**CodeStudio 🏆**
+**Coding Ninjas 🏆**
+- 500+ problems solved with 70,000+ Coding Score, including in the top 0.5% 🌟.
 
 **HackerRank 🏆**
 - HackerRank: 5⭐ in Python, 5⭐ in SQL 🌈.
@@ -261,8 +171,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
 </p> -->
 
-
-## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
+<!--## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
@@ -280,20 +189,20 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 | 🌐 GitHub Profile Finder [**🔗**](https://check-your-github.netlify.app/) | 🌐 Check Weather App [**🔗**](https://check-today-weather.netlify.app/) | 
 | 🌐 CORESubjectsWithME [**🔗**](https://princesinghhub.github.io/CoreSubjectsWithMe/) | 🌐 CPU SCHEDULING ALGORITHM VISUALISER [**🔗**](https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER) | 
 | 🌐 MeraCodeEditor [**🔗**](https://github.com/PrinceSinghhub/MeraCodeEditor) | 🌐 Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC) |  
-| 🌐 75DaysHardPlacementChallenge [**🔗**](https://princesinghhub.github.io/75DaysHardPlacementChallenge/) | 🌐 CloudConduction Payroll 💰 [**🔗**](https://github.com/PrinceSinghhub/CloudConduction-Payroll)
-
-<br>
+| 🌐 75DaysHardPlacementChallenge [**🔗**](https://princesinghhub.github.io/75DaysHardPlacementChallenge/) | 🌐 CloudConduction Payroll 💰 [**🔗**](https://github.com/PrinceSinghhub/CloudConduction-Payroll)  
+-->
+<br> 
 <p align="center">
-    <a href="https://https://github.com/PrinceSinghhub/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Singh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceSinghhub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://https://github.com/pramod21-24it/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pramod Maurya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pramod21-24it&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  
 ## 📊 My Github Stats
 
    <br/>
-<a href="https://github.com/PrinceSinghhub/github-readme-stats"><img alt="Prince Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrinceSinghhub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PrinceSinghhub/github-readme-stats"><img alt="Prince Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSinghhub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/pramod21-24it/github-readme-stats"><img alt="Pramod Maurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=pramod21-24it&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/pramod21-24it/github-readme-stats"><img alt="Pramod Maurya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramod21-24it&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -311,8 +220,9 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 </p>
 
 
-[![Pramod Maurya's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pramod2021-24IT&theme=github-compact)](https://github.com/Pramod2021-24IT/github-readme-activity-graph)
+[![Pramod Maurya's GitHub activity graph](https://github.com/Pramod2021-24IT/github-readme-activity-graph)
 
+<!-- 
 ## 📧 Connect with me:
 <p align="left">
 
@@ -322,9 +232,9 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
+-->
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=PrinceSinghhub">
+    <img src="https://komarev.com/ghpvc/?username=pramod21-24it">
 </a>
-<a href="https://github.com/PrinceSinghhub?tab=followers"><img src="https://img.shields.io/github/followers/PrinceSinghhub?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/pramod21-24it?tab=followers"><img src="https://img.shields.io/github/followers/pramod21-24it?label=Followers&style=social" alt="GitHub Badge"></a>
