@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pramod Kumar Maurya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Pramod Kumar Maurya</b></h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod2021-24it&label=Profile%20views&color=0e75b6&style=flat" alt="pramod2021-24it" /> </p>
