@@ -50,26 +50,9 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 - ⚡ Fun fact **I am about to become an Engineer.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod2021-24it&label=Profile%20views&color=0e75b6&style=flat" alt="pramod2021-24it" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramod2021-24it" alt="pramod2021-24it" /></a> </p>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/er_pramodmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_pramodmaurya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pramodmaurya9621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pramodmaurya9621/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/it8001pramodmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/it8001pramodmaurya" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100080944180807&sk=about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100080944180807&sk=about" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pramodmaurya9621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pramodmaurya9621/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/prem9621" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prem9621" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/info_samarthygkp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/info_samarthygkp" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/prem9621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/prem9621" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/pramod2021-24it/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pramod2021-24it/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@pramodkumar36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@pramodkumar36" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pramod_maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pramod_maurya" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
@@ -171,27 +154,13 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
 </p> -->
 
-<!--## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
+## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
-| 🌐  MyCodingProfiles [**🔗**](https://github.com/PrinceSinghhub/MyCodingProfiles) | 🌐 Shorting Algorithm Website [**🔗**](https://sortingalgorithmswebsite.netlify.app/) | 
-| 🌐  MYWebResume [**🔗**](https://github.com/PrinceSinghhub/MYWebResume) | 🌐 Animated My DSA Profiles Circle [**🔗**](https://mydsacircle.netlify.app/) | 
-| 🌐 ADVANCED-BINARY-CALCULATOR [**🔗**](https://github.com/PrinceSinghhub/ADVANCED-BINARY-CALCULATOR) | 🌐 ChessBoard [**🔗**](https://mychessbord.netlify.app/) | 
-| 🌐 MY-AI-ASSISTANT [**🔗**](https://github.com/PrinceSinghhub/MY-AI-ASSISTANT) | 🌐 My Resume Clone [**🔗**](https://princesinghresume.netlify.app/) | 
-| 🌐 Sorting-Algorithms-With-GUI [**🔗**](https://github.com/PrinceSinghhub/Sorting-Algorithms-With-GUI) | 🌐 MyCertificatesGallary [**🔗**](https://mycertificatesgallary.netlify.app/) | 
-| 🌐 Get-System-Information [**🔗**](https://github.com/PrinceSinghhub/Get-System-Information) | 🌐 My DSA Journey WebSite  [**🔗**](https://dsajourneyofprincesingh.netlify.app/) |
-| 🌐 Increment Decrement Calculator [**🔗**](https://incrementdecrementoperator.netlify.app/) | 🌐 Share Modal [**🔗**](https://dsamodal.netlify.app/) | 
-| 🌐 ToDo-List-GUI-Python [**🔗**](https://github.com/PrinceSinghhub/ToDo-List-GUI-Python) | 🌐 Tick-Tak-Too Game [**🔗**](https://github.com/PrinceSinghhub/Tick-Tak-Too-Game) | 
-| 🌐 Portfolio [**🔗**](https://portfolioofprince.netlify.app/) | 🌐 Modern DSA Profile Sharing [**🔗**](https://moderndsaprofilesharingpage.netlify.app/) |
-| 🌐 Tick-Tack-Too Game using Dev [**🔗**](https://ticktacktoogame.netlify.app/) | 🌐 RazorpayClone WebSite [**🔗**](https://github.com/PrinceSinghhub/RazorpayClone-WebSite) | 
-| 🌐 Discord Clone [**🔗**](https://github.com/PrinceSinghhub/Discord-Clone) | 🌐 DSAwithPrinceSingh [**🔗**](https://princesinghhub.github.io/DSAwithPrinceSingh/) | 
-| 🌐 GitHub Profile Finder [**🔗**](https://check-your-github.netlify.app/) | 🌐 Check Weather App [**🔗**](https://check-today-weather.netlify.app/) | 
-| 🌐 CORESubjectsWithME [**🔗**](https://princesinghhub.github.io/CoreSubjectsWithMe/) | 🌐 CPU SCHEDULING ALGORITHM VISUALISER [**🔗**](https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER) | 
-| 🌐 MeraCodeEditor [**🔗**](https://github.com/PrinceSinghhub/MeraCodeEditor) | 🌐 Cardiac Care With Virtual Cardiologist (CCVC) [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC) |  
-| 🌐 75DaysHardPlacementChallenge [**🔗**](https://princesinghhub.github.io/75DaysHardPlacementChallenge/) | 🌐 CloudConduction Payroll 💰 [**🔗**](https://github.com/PrinceSinghhub/CloudConduction-Payroll)  
--->
+| 🌐 | 🌐 |
 <br> 
+
 <p align="center">
     <a href="https://https://github.com/pramod2021-24it/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pramod Maurya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pramod2021-24it&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -233,6 +202,21 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 
 </p>
 -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/er_pramodmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_pramodmaurya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pramodmaurya9621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pramodmaurya9621/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/it8001pramodmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/it8001pramodmaurya" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100080944180807&sk=about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100080944180807&sk=about" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/pramodmaurya9621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pramodmaurya9621/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/prem9621" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prem9621" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/info_samarthygkp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/info_samarthygkp" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/prem9621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/prem9621" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/pramod2021-24it/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pramod2021-24it/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@pramodkumar36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@pramodkumar36" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pramod_maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pramod_maurya" height="30" width="40" /></a>
+</p><br>
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=pramod2021-24it">
