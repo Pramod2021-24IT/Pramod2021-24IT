@@ -5,15 +5,37 @@
 <h4 align="center"><b>Software Engineer 👨‍💻 | Problem Solving Enthusiast 🧠 | 100DaysOfCode+ on @LeetCode | Max(1422) Rating Leetcode👑 Top 40% 🌍 | 100DaysOfCode Streak 🔥 | 5⭐ Problem Solving | Institute 62nd 🥇 Rank GFG | 100+ Problems Solved on DSA | HardCore Data Science Lover ❤️ | 1K @LinkedIn & 5k+ 🔥 Views | @GitHub 100+ 🔥 Views </b>
 </b></h4> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod2021-24it&label=Profile%20views&color=0e75b6&style=flat" alt="pramod2021-24it" /> </p>
+## 🙋‍♂️ About Me
+<a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramod2021-24it" alt="pramod2021-24it" /></a> </p>
+- 🥋 I'm a very Passionate for Data Science, Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
 
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+
+- 📚 Founder @VidyutEngineeringWorks and @SamarthyClassesGkp
+  
+- 👁‍🗨 What's Special about me? <br> 
+Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
+
+- 📔 Live [**MyResume**](https://drive.google.com/file/d/1Hf6j8AWViD-J8l4bh6eUR7LI6WeJZB0b/view?usp=sharing)
+  
+- 👨‍🏫 Mentor on @SamarthyClassesGkp
+  
+- 📞 Book Your 1:1 Call with Me For **Career Guidance**
+  
+- 👨‍💻 Check My! [**CodingProfile**](https://linktr.ee/pramodmaurya).
+  ![pramodmaurya](https://github.com/Pramod2021-24IT/Pramod2021-24IT/assets/95674009/77fa8226-7cc1-4a58-bacd-7e236b04db91)
+
+- 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
+  <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
+  
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+ 
+- ⚡ For Fun **Games, Singing, Reels**
+ 
 - 🔭 I’m currently working on **Bone Fracture Detection System**
 
 - 🌱 I’m currently learning **AI**
-
-- 👯 I’m looking to collaborate on **Share Market Prediction**
 
 - 🤝 I’m looking for help with **Data Science**
 
@@ -28,6 +50,12 @@
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Hf6j8AWViD-J8l4bh6eUR7LI6WeJZB0b/view?usp=sharing)**
 
 - ⚡ Fun fact **I am about to become an Engineer.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod2021-24it&label=Profile%20views&color=0e75b6&style=flat" alt="pramod2021-24it" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramod2021-24it" alt="pramod2021-24it" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -87,23 +115,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
 
-## 🙋‍♂️ About Me
-<a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
--  Junior SDE @CloudConduction & <b>Cracked Remote Job As A Fresher 💯</b>
-- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 📚 Founder @DSAwithPrinceSingh
-- 👁‍🗨 What's Special about me? <br> 
-Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
-- 📔 Live [**MyResume**](https://princesinghhub.github.io/MYWebResume/)
-- 🔥 [**My DSA and Development Skills**](https://linktr.ee/itsPrinceSingh)
-- 👨‍🏫 Mentor on @Topmate and @Propeers
-- 📞 Book Your 1:1 Call with Me For **DSA & Development & Placement & Career Guidance** [**Link**](https://topmate.io/itsprincesingh)
-- 👨‍💻 Check My! [**CodingProfile**](https://princesinghhub.github.io/MyCodingProfiles/)
-- 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
-  <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- ⚡ For Fun **Games, Rosting, Mems, HipHop**
+
 <!-- - 📖 Learn [**DSAwithPrinceSingh**](https://princesinghhub.github.io/DSAwithPrinceSingh/) -->
 
 
