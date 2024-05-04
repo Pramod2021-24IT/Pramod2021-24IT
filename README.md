@@ -76,6 +76,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width='40px'></img>
 
 ## ⭐ Summarized My All Achievements 🎉
 
