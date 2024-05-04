@@ -69,7 +69,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 
 
-## All DSA Badges @LeetCode
+## All Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
