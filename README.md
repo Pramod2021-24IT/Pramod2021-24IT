@@ -190,8 +190,10 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pramod2021-24IT&theme=github_dark)
 
-[![Pramod Maurya's GitHub activity graph](https://github.com/Pramod2021-24IT/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pramod2021-24IT&theme=github_dark)
+
 
 <!-- 
 ## 📧 Connect with me:
@@ -218,6 +220,34 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@pramodkumar36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@pramodkumar36" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pramod_maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pramod_maurya" height="30" width="40" /></a>
 </p><br>
+
+
+<table>
+<caption>Pramod Kumar Maurya</caption>
+<thead>
+<tr>
+<th colspan="2">Quick Info</th>
+</tr>
+</thead>
+<tbody>
+<tr><th scope='row'>Name</th><td>Pramod Kumar Maurya</td></tr>
+<tr><th scope='row'>Education</th><td>B.Sc, M.Sc., B.Tech(IT)</td></tr>
+<tr><th scope='row'>Last College</th><td>SRMCEM</td></tr>
+<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, Data Science, Data Analytics</td></tr>
+</tbody>
+</table>
+
+
+## Tasks
+
+- [x] Born
+- [ ] Got a job
+- [ ] Married
+- [ ] Die
+
+
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
