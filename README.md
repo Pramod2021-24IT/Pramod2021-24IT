@@ -149,7 +149,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
     <a href="#"> <img src="https://img.icons8.com/fluency/96/node-js.png"/> </a>
 </p> -->
 
-## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
+## 📝 PROJECT's ZONE (Working on 30+ Personal Projects)
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
