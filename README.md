@@ -46,9 +46,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 💬 Ask me about **Data Analytics & Data Science.**
 
 - 📫 How to reach me **[Email](pramod.maurya12321@gmail.com)**
-
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Hf6j8AWViD-J8l4bh6eUR7LI6WeJZB0b/view?usp=sharing)**
-
+- 
 - ⚡ Fun fact **I am about to become an Engineer.**
 
 
