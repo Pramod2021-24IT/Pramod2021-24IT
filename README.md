@@ -69,6 +69,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width='50px'></img>
+<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width='50px'></img>
 
 ----------------------------------------
 ## @CodeChef
