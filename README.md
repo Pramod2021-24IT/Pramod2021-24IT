@@ -92,7 +92,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 <img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" width="50px"> <h3> Python </h3> </img>
 
-<img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" width="50px"> <h3> 30 Days of Code </h3> </img>
+<img src="https://hrcdn.net/fcore/assets/badges/30-days-of-code-a772ae4c2f.svg" width="50px"> <h3> 30 Days of Code </h3> </img>
 
 <img src="https://hrcdn.net/fcore/assets/badges/10-days-of-statistics-94ff22d1c9.svg" width="50px"> <h3> 10 Days of Statistics </h3> </img>
 
