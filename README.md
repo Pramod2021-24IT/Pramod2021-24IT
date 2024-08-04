@@ -66,24 +66,22 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 
 ## All Badges @LeetCode
-<img src= "https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="50px"></img>
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width='50px'> </img>
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="50px"></img>
-
-<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width='50px'></img>
-<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width='50px'></img>
 
 <table>
 <caption>@LeetCode/caption>
-
 <tbody>
+  
 <tr><th scope='row'>Badge Name</th><th>Earn Date</th><th>Logo</th></tr>
 <tr><th scope='row'>Introduction to Pandas</th><td>26-02-2024</td><td><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="50px"></img></td></tr>
-
+<tr><th scope='row'>50 Days Badge</th><td>30-03-2024</td><td><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img></td></tr>
+<tr><th scope='row'>April</th><td>30-04-2024</td><td><img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="50px"></img></td></tr>
+<tr><th scope='row'>Top SQL 50</th><td>01-05-2024</td><td><img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width='50px'></img></td></tr>
+<tr><th scope='row'>LeetCode 75</th><td>25-05-2024</td><td><img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="50px"></img></td></tr>
+<tr><th scope='row'>May</th><td>30-05-2024</td><td><img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="50px"></img></td></tr>
+<tr><th scope='row'>100 Days Badge</th><td>19-05-2024</td><td><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img></td></tr>
+<tr><th scope='row'>Top 100 Liked</th><td>20-06-2024</td><td><img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width='50px'></img></td></tr>
+<tr><th scope='row'>June</th><td>30-06-2024</td><td><img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width='50px'></img></td></tr>
+<tr><th scope='row'>July</th><td>30-07-2024</td><td><img src= "https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="50px"></img></td></tr>
 
 </tbody>
 </table>
