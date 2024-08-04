@@ -90,6 +90,18 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ------------------------------------
 ## @HackerRank
 
+<img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" width="50px"> <h3> Python </h3> </img>
+
+<img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" width="50px"> <h3> Python </h3> </img>
+
+<img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" width="50px"> <h3> Python </h3> </img>
+
+<img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" width="50px"> <h3> Python </h3> </img>
+
+<img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" width="50px"> <h3> Python </h3> </img>
+
+<img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" width="50px"> <h3> Python </h3> </img>
+
 -----------------------------------
 ## @HackerEarth
 
