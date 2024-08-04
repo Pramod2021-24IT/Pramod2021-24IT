@@ -90,6 +90,11 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ------------------------------------
 ## @HackerRank
 
+-----------------------------------
+## @HackerEarth
+
+<img src="https://cdn.hackerearth.com/static/badges/he_level/global_1.png" width="50px"> <h3> Novice Badge </h3> </img>
+
 ----------------------------
 ## @GeeksForGeeks
 
