@@ -87,6 +87,18 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 <img src="https://cdn.codechef.com/images/badges/contest/bronze.svg" width="50px"> <h3> Contest Contender - Bronze Badge</h3></img>
 
+<table>
+<caption>@CodeChef</caption>
+
+<tbody>
+<tr><th scope='row'>Badge Name</th><td>Logo</td></tr>
+<tr><th scope='row'>Daily Streak - Diamond Badge</th><td><img src="https://cdn.codechef.com/images/badges/streak/diamond.svg" width="50px" align="center"></img></td></tr>
+<tr><th scope='row'>Last College</th><td>SRMCEM</td></tr>
+<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, Data Science, Data Analytics</td></tr>
+</tbody>
+</table>
+
 ------------------------------------
 ## @HackerRank
 
