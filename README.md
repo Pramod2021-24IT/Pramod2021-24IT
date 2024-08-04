@@ -81,21 +81,15 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ----------------------------------------
 ## @CodeChef
 
-<img src="https://cdn.codechef.com/images/badges/streak/diamond.svg" width="50px" align="center"> <h3>Daily Streak - Diamond Badge</h3></img>
-
-<img src="https://cdn.codechef.com/images/badges/problem/gold.svg" width="50px"> <h3> Problem Solver - Gold Badge</h3></img>
-
-<img src="https://cdn.codechef.com/images/badges/contest/bronze.svg" width="50px"> <h3> Contest Contender - Bronze Badge</h3></img>
-
 <table>
 <caption>@CodeChef</caption>
 
 <tbody>
 <tr><th scope='row'>Badge Name</th><td>Logo</td></tr>
 <tr><th scope='row'>Daily Streak - Diamond Badge</th><td><img src="https://cdn.codechef.com/images/badges/streak/diamond.svg" width="50px" align="center"></img></td></tr>
-<tr><th scope='row'>Last College</th><td>SRMCEM</td></tr>
-<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, Data Science, Data Analytics</td></tr>
+<tr><th scope='row'>Problem Solver - Gold Badge</th><td><img src="https://cdn.codechef.com/images/badges/problem/gold.svg" width="50px"></img></td></tr>
+<tr><th scope='row'>Contest Contender - Bronze Badge</th><td><img src="https://cdn.codechef.com/images/badges/contest/bronze.svg" width="50px"></img></td></tr>
+
 </tbody>
 </table>
 
