@@ -73,10 +73,20 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="50px"></img>
+
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width='50px'></img>
 <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width='50px'></img>
 
+<table>
+<caption>@LeetCode/caption>
+
+<tbody>
+<tr><th scope='row'>Badge Name</th><th>Earn Date</th><th>Logo</th></tr>
+<tr><th scope='row'>Introduction to Pandas</th><td>26-02-2024</td><td><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="50px"></img></td></tr>
+
+
+</tbody>
+</table>
 
 ----------------------------------------
 ## @CodeChef
