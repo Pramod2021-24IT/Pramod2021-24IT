@@ -105,7 +105,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ## @HackerRank
 
 <table>
-<caption>@CodeChef</caption>
+<caption>@HackerRank</caption>
 
 <tbody>
 <tr><th scope='row'>Badge Name</th><th>Logo</th></tr>
