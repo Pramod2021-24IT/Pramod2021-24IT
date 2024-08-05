@@ -104,15 +104,19 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ------------------------------------
 ## @HackerRank
 
-<img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" width="50px"> <h3> Python </h3> </img>
+<table>
+<caption>@CodeChef</caption>
 
-<img src="https://hrcdn.net/fcore/assets/badges/30-days-of-code-a772ae4c2f.svg" width="50px"> <h3> 30 Days of Code </h3> </img>
+<tbody>
+<tr><th scope='row'>Badge Name</th><th>Logo</th></tr>
+<tr><th scope='row'>Python</th><td><img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" width="50px"></img></td></tr>
+<tr><th scope='row'>30 Days of Code</th><td><img src="https://hrcdn.net/fcore/assets/badges/30-days-of-code-a772ae4c2f.svg" width="50px"></img></td></tr>
+<tr><th scope='row'>10 Days of Statistics</th><td><img src="https://hrcdn.net/fcore/assets/badges/10-days-of-statistics-94ff22d1c9.svg" width="50px"></img></td></tr>
+<tr><th scope='row'>SQL</th><td><img src="https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg" width="50px"></img></td></tr>
+<tr><th scope='row'>C Language</th><td><img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" width="50px"></img></td></tr>
 
-<img src="https://hrcdn.net/fcore/assets/badges/10-days-of-statistics-94ff22d1c9.svg" width="50px"> <h3> 10 Days of Statistics </h3> </img>
-
-<img src="https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg" width="50px"> <h3> SQL </h3> </img>
-
-<img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" width="50px"> <h3> C Language </h3> </img>
+</tbody>
+</table>
 
 -----------------------------------
 ## @HackerEarth
