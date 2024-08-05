@@ -68,7 +68,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 ## All Badges @LeetCode
 
 <table>
-<caption>@LeetCode/caption>
+<caption>@LeetCode</caption>
 <tbody>
   
 <tr><th scope='row'>Badge Name</th><th>Earn Date</th><th>Logo</th></tr>
