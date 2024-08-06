@@ -127,6 +127,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <tr><th scope='row'>Badge Name</th><th>Logo</th></tr>
 <tr><th scope='row'>Novice Badge</th><td><img src="https://cdn.hackerearth.com/static/badges/he_level/global_1.png" width="50px"></img></td></tr>
 <tr><th scope='row'>Basic Programming *</th><td><img src="https://cdn.hackerearth.com/static/badges/practice_track/basic_programming_1.png" width="50px"></img></td></tr>
+<tr><th scope='row'>Math *</th><td><img src="https://cdn.hackerearth.com/static/badges/practice_track/math_1.png" width="50px"></img></td></tr>
 
 </tbody>
 </table>
