@@ -20,7 +20,7 @@
 - 👁‍🗨 What's Special about me? <br> 
 Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
-- 📔 Live [**MyResume**](https://drive.google.com/file/d/1Hf6j8AWViD-J8l4bh6eUR7LI6WeJZB0b/view?usp=sharing)
+- 📔 Live [**MyResume**](https://drive.google.com/file/d/1b5X5q-pD391lkjkujUhc5EtkzP50fdRa/view?usp=sharing))
   
 - 👨‍🏫 Mentor on @SamarthyClassesGkp
   
@@ -29,7 +29,6 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 👨‍💻 Check My! [**CodingProfile**](https://linktr.ee/pramodmaurya).
 
 - 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
-  <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
   
 - 👯 I’m looking to collaborate on **OpenSource Projects**
  
