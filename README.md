@@ -118,6 +118,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 </table>
 
 -----------------------------------
+
 ## @HackerEarth
 <table>
 <caption>@HackerEarth</caption>
@@ -130,11 +131,17 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 </tbody>
 </table>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ## @GeeksForGeeks
+<table>
+  <caption>@GeeksForGeeks</caption>
 
-<img src="https://media.geeksforgeeks.org/img-practice/coin-GFG-GIF_2(1)-1667467528.gif" width="50px"> <h3> POTD: Currect Streak 101</h3></img>
-
+  <tbody>
+    <tr>
+      <th scope='row'>POTD Badge</th>
+      <td><img src="https://media.geeksforgeeks.org/img-practice/coin-GFG-GIF_2(1)-1667467528.gif" width="50px"></img></td>
+    </tr>
+  </tbody>
 
 
 ## ⭐ Summarized My All Achievements 🎉
