@@ -59,11 +59,6 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 ----------------------------------------------------------------------------------------------
 
-
-
-
-
-
 ## All Badges @LeetCode
 
 <table>
