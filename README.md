@@ -2,7 +2,7 @@
 
 <h2 align="center"><b>A passionate data scientist from India</b></h2>
 
-<h4 align="center"><b>Software Engineer 👨‍💻 | Problem Solving Enthusiast 🧠 | 100DaysOfCode+ on @LeetCode | Max(1422) Rating Leetcode👑 Top 40% 🌍 | 100DaysOfCode Streak 🔥 | 5⭐ Problem Solving | Institute 62nd 🥇 Rank GFG | 100+ Problems Solved on DSA | HardCore Data Science Lover ❤️ | 1K @LinkedIn & 5k+ 🔥 Views | @GitHub 400+ 🔥 Views </b>
+<h4 align="center"><b>Software Engineer 👨‍💻 | Problem Solving Enthusiast 🧠 | 200DaysOfCode+ on @LeetCode | Max(1422) Rating Leetcode👑 Top 40% 🌍 | 200DaysOfCode Streak 🔥 | 5⭐ Problem Solving | Institute 62nd 🥇 Rank GFG | 100+ Problems Solved on DSA | HardCore Data Science Lover ❤️ | 1K @LinkedIn & 5k+ 🔥 Views | @GitHub 400+ 🔥 Views </b>
 </b></h4> 
 
 
@@ -47,8 +47,6 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 - 📫 How to reach me **[Email](pramod.maurya12321@gmail.com)**
 - 
-- ⚡ Fun fact **I am about to become an Engineer.**
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramod2021-24it" alt="pramod2021-24it" /></a> </p>
 
@@ -74,7 +72,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <tr><th scope='row'>Top 100 Liked</th><td>20-06-2024</td><td><img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width='50px'></img></td></tr>
 <tr><th scope='row'>June</th><td>30-06-2024</td><td><img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width='50px'></img></td></tr>
 <tr><th scope='row'>July</th><td>30-07-2024</td><td><img src= "https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="50px"></img></td></tr>
-
+<tr><th scope='row'>200 Days Badge</th><td>29-08-2024</td><td><img src= "https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50px"></img></td></tr>
 </tbody>
 </table>
 
