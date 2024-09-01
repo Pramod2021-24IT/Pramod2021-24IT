@@ -5,7 +5,6 @@
 <h4 align="center"><b>Software Engineer 👨‍💻 | Problem Solving Enthusiast 🧠 | 200DaysOfCode+ on @LeetCode | Max(1422) Rating Leetcode👑 Top 40% 🌍 | 200DaysOfCode Streak 🔥 | 5⭐ Problem Solving | Institute 62nd 🥇 Rank GFG | 100+ Problems Solved on DSA | HardCore Data Science Lover ❤️ | 1K @LinkedIn & 5k+ 🔥 Views | @GitHub 400+ 🔥 Views </b>
 </b></h4> 
 
-
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 
