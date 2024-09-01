@@ -289,7 +289,7 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
 </thead>
 <tbody>
 <tr><th scope='row'>Name</th><td>Pramod Kumar Maurya</td></tr>
-<tr><th scope='row'>Education</th><td>B.Sc, M.Sc., B.Tech(IT)</td></tr>
+<tr><th scope='row'>Education</th><td>B.Tech(IT)</td></tr>
 <tr><th scope='row'>Last College</th><td>SRMCEM</td></tr>
 <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, Data Science, Data Analytics</td></tr>
