@@ -20,7 +20,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 📔 Live [**MyResume**](https://drive.google.com/file/d/1b5X5q-pD391lkjkujUhc5EtkzP50fdRa/view?usp=sharing)
   
 - 👨‍🏫 Mentor on @SamarthyClassesGkp
-  
+
 - 📞 Book Your 1:1 Call with Me For **Career Guidance**
   
 - 👨‍💻 Check My! [**CodingProfile**](https://linktr.ee/pramodmaurya).
