@@ -144,9 +144,9 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------| 
-| 💥 50DaysOfCode+ on @LeetCode  | ⭐  |
-| 💥 50DaysOfCode+ on @CodeStudio | ⭐ 1K+ Followers on LinkedIn |
-| 💥 50DaysOfCode+ on @GeeksForGeeks | ⭐ 5k+ Views on LinkedIn |
+| 💥 250DaysOfCode+ on @LeetCode  | ⭐  |
+| 💥 250DaysOfCode+ on @CodeStudio | ⭐ 1K+ Followers on LinkedIn |
+| 💥 250DaysOfCode+ on @GeeksForGeeks | ⭐ 5k+ Views on LinkedIn |
 
 ## DSA 🏆 Achievements
 
