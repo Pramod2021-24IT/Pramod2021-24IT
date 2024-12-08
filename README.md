@@ -7,8 +7,6 @@
 </b></h4> 
 
 
-
-
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 
