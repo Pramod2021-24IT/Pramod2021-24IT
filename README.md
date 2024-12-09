@@ -74,7 +74,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <tr><th scope='row'>September</th>th><td>30-09-2024</td><td><img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="50px"></td>img></td></tr>
 <tr><th scope='row'>October</th>th><td>31-10-2024</td><td><img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" width='50px'></td>img></td></tr>
 <tr><th scope='row'>November</th>th><td>30-11-2024</td>td><td><img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" width='50px'></td>img></td></tr>
-<tr><th scope='row'>November</th>th><td>30-11-2024</td>td><td><img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width='50px'></td>img></td></tr>
+<tr><th scope='row'>Annual Badge 2024</th>th><td>07-12-2024</td>td><td><img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width='50px'></td>img></td></tr>
 </tbody>
 </table>
 
