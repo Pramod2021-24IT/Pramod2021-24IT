@@ -11,7 +11,6 @@
 
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 
-  
 - 👁‍🗨 What's Special about me? <br> 
 Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
