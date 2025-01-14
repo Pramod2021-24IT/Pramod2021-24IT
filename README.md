@@ -32,6 +32,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 - 🌱 I’m currently learning **AI**
 
+
 - 🤝 I’m looking for help with **Data Science**
 
 - 👨‍💻 All of my projects are available at **[Github](Pramod2021-24IT)**
