@@ -8,7 +8,6 @@
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 - 🥋 I'm a very Passionate for Data Science, Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-
 - 👁‍🗨 What's Special about me? <br> 
 Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
