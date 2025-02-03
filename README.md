@@ -10,7 +10,6 @@
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 👁‍🗨 What's Special about me? <br> 
 Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
-
 - 📔 Live [**MyResume**](https://drive.google.com/file/d/1b5X5q-pD391lkjkujUhc5EtkzP50fdRa/view?usp=sharing)
 - 👨‍🏫 Mentor on @SamarthyClassesGkp
 
