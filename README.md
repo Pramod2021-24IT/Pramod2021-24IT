@@ -20,7 +20,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 - 📘 I’m Currently Studying **New Tech Stack for Expanding My Skills set and Knowledge**
   
 - 👯 I’m looking to collaborate on **OpenSource Projects**
- 
+
 - ⚡ For Fun **Games, Singing, Reels**
  
 - 🔭 I’m currently working on **Bone Fracture Detection System**
