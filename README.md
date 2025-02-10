@@ -70,6 +70,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <tr><th scope='row'>Annual Badge 2024</th><td>07-12-2024</td><td><img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width='50px'></td></img></td></tr>
 <tr><th scope='row'>December</th><td>31-12-2024</td><td><img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width='50px'></td></img></td></tr>
 <tr><th scope='row'>January</th><td>31-01-2025</td><td><img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" width='50px'></td></img></td></tr>
+<tr><th scope='row'>365</th><td>09-02-2025</td><td><img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width='50px'></td></img></td></tr>
 </tbody>
 </table>
 
