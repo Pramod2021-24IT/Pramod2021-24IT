@@ -15,8 +15,6 @@
   
 - 👨‍💻 Check My! [**CodingProfile**](https://linktr.ee/pramodmaurya).
 
-- 
-
 - 📘 I’m Currently Studying **New Tech Stack for Expanding My Skills set and Knowledge**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
