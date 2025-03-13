@@ -39,7 +39,6 @@
 <table>
 <caption>@LeetCode</caption>
 <tbody>
-  
 <tr><th scope='row'>Badge Name</th><th>Earn Date</th><th>Logo</th></tr>
 <tr><th scope='row'>Introduction to Pandas</th><td>26-02-2024</td><td><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="50px"></img></td></tr>
 <tr><th scope='row'>50 Days Badge</th><td>30-03-2024</td><td><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img></td></tr>
