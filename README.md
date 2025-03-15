@@ -16,7 +16,6 @@
 - ⚡ For Fun **Games, Singing, Reels**
 - 🔭 I’m currently working on **Bone Fracture Detection System**
 - 🌱 I’m currently learning **AI**
-
 - 🤝 I’m looking for help with **Data Science**
 - 👨‍💻 All of my projects are available at **[Github](Pramod2021-24IT)**
 
