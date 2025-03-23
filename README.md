@@ -20,7 +20,6 @@
 - 👨‍💻 All of my projects are available at **[Github](Pramod2021-24IT)**
 
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/pramodmaurya9621/)**
-
 - 💬 Ask me about **Data Analytics & Data Science.**
 
 - 📫 How to reach me **[Email](pramod.maurya12321@gmail.com)**
