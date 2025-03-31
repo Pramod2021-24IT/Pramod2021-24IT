@@ -53,7 +53,9 @@
 <tr><th scope='row'>January</th><td>31-01-2025</td><td><img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" width='50px'></td></img></td></tr>
 <tr><th scope='row'>365</th><td>09-02-2025</td><td><img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width='50px'></td></img></td></tr>
 <tr><th scope='row'>50 Days Badge</th><td>20-02-2025</td><td><img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="50px"></td></img></td>
-<tr><th scope='row'>February</th><td>31-01-2025</td><td><img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width='50px'></td></img></td></tr>
+<tr><th scope='row'>February</th><td>28-02-2025</td><td><img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width='50px'></td></img></td>
+<tr><th scope='row'>Marchy</th><td>31-03-2025</td><td><img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width='50px'></td></img></td>
+</tr>
 </tr>
 </tbody>
 </table>
