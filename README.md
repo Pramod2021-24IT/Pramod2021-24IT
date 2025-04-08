@@ -22,7 +22,6 @@
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/pramodmaurya9621/)**
 - 💬 Ask me about **Data Analytics & Data Science.**
 
-
 - 📫 How to reach me **[Email](pramod.maurya12321@gmail.com)**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramod2021-24it" alt="pramod2021-24it" /></a> </p>
 <h3 align="Center">Languages and Tools:</h3>
