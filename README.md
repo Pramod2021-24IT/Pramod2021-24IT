@@ -299,33 +299,3 @@ I'm proud of my continuous growth and learning in the coding world. I am looking
     <img src="https://komarev.com/ghpvc/?username=pramod2021-24it">
 </a>
 <a href="https://github.com/pramod2021-24it?tab=followers"><img src="https://img.shields.io/github/followers/pramod2021-24it?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-
-
-
-
-
-
-+----------------------------+
-|     Microsoft Purview UI   |
-|   (Compliance Center)      |
-+------------+---------------+
-             |
-    +--------v--------+
-    | Governance Engine |
-    | - Labeling        |
-    | - Retention       |
-    | - Policy Engine   |
-    +--------+----------+
-             |
-    +--------v--------+
-    | Analytics & AI    |
-    | - Risk Detection  |
-    | - Content Analysis|
-    +--------+----------+
-             |
-    +--------v--------+
-    | Data Sources      |
-    | (M365, AWS, GCP, On-Prem) |
-    +------------------+
