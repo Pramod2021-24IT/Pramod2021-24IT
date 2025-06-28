@@ -57,6 +57,7 @@
 <tr><th scope='row'>March</th><td>31-03-2025</td><td><img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width='50px'></td></img></td>
 <tr><th scope='row'>100 Days Badge</th><td>11-04-2025</td><td><img src="https://assets.leetcode.com/static_assets/others/25100.gif" width='50px'></td></img></td>
 <tr><th scope='row'>May</th><td>31-05-2025</td><td><img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width='50px'></td></img></td>
+<tr><th scope='row'>500 Days Badge</th><td>28-06-2025</td><td><img src="https://assets.leetcode.com/static_assets/others/25500.gif" width='50px'></td></img></td>
 </tr>
 </tr>
 </tbody>
