@@ -3,6 +3,9 @@
 
 <h4 align="center"><b>Software Engineer 👨‍💻 | Problem Solving Enthusiast 🧠 | 365DaysOfCode+ on @LeetCode | Max(1422) Rating Leetcode👑 Top 40% 🌍 | 400DaysOfCode Streak 🔥 | 5⭐ Problem Solving | Institute 62nd 🥇 Rank GFG | 200+ Problems Solved on DSA | HardCore Data Science Lover ❤️ | 2K @LinkedIn & 5k+ 🔥 Views | @GitHub 500+ 🔥 Views </b>
 </b></h4>
+
+
+
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 - 🥋 I'm a very Passionate for Data Science, Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
