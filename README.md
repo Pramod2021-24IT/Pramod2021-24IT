@@ -122,7 +122,6 @@
 
 </div>
 
-> ✅ **You’re on track to hit 500 Days of Code on LeetCode — an elite milestone achieved by less than 1% of users!**
 
 ---
 
