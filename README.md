@@ -94,63 +94,35 @@
 </p>
 
 ---
+
 ## 🏆 LeetCode Badges (2024–2025)
 
 <div align="center">
 
-| Left Column | Right Column |
-|-------------|--------------|
-| <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="50"> <br> Introduction to Pandas <br> 26-02-2024 | <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50"> <br> 50 Days Badge <br> 30-03-2024 |
-| <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="50"> <br> April 2024 <br> 30-04-2024 | <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="50"> <br> Top SQL 50 <br> 01-05-2024 |
-| <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50"> <br> 100 Days Badge <br> 19-05-2024 | <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="50"> <br> LeetCode 75 <br> 25-05-2024 |
-| <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="50"> <br> May 2024 <br> 30-05-2024 | <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50"> <br> Top 100 Liked <br> 20-06-2024 |
-| <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="50"> <br> June 2024 <br> 30-06-2024 | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="50"> <br> July 2024 <br> 30-07-2024 |
-| <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50"> <br> 200 Days Badge <br> 29-08-2024 | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" width="50"> <br> August 2024 <br> 31-08-2024 |
-| <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="50"> <br> September 2024 <br> 30-09-2024 | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" width="50"> <br> October 2024 <br> 31-10-2024 |
-| <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" width="50"> <br> November 2024 <br> 30-11-2024 | <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="50"> <br> Annual Badge 2024 <br> 07-12-2024 |
-| <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="50"> <br> December 2024 <br> 31-12-2024 | <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" width="50"> <br> January 2025 <br> 31-01-2025 |
-| <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="50"> <br> 365 Days Badge <br> 09-02-2025 | <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="50"> <br> 50 Days Badge (2025) <br> 20-02-2025 |
-| <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="50"> <br> February 2025 <br> 28-02-2025 | <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="50"> <br> March 2025 <br> 31-03-2025 |
-| <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="50"> <br> 100 Days Badge (2025) <br> 11-04-2025 | <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width="50"> <br> May 2025 <br> 31-05-2025 |
-| <img src="https://assets.leetcode.com/static_assets/others/25500.gif" width="50"> <br> **500 Days Badge** <br> **28-06-2025** | <img src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="50"> <br> June 2025 <br> 30-06-2025 |
-| <img src="https://leetcode.com/static/images/badges/2025/gif/2025-07.gif" width="50"> <br> July 2025 <br> 31-07-2025 | <img src="https://leetcode.com/static/images/badges/2025/gif/2025-08.gif" width="50"> <br> August 2025 <br> 31-08-2025 |
+| Badge Name                  | Earned On     | Logo | Badge Name                  | Earned On     | Logo |
+|-----------------------------|---------------|------|-----------------------------|---------------|------|
+| Introduction to Pandas      | 26-02-2024    | <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="50"> | 50 Days Badge               | 30-03-2024    | <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50"> |
+| April 2024                  | 30-04-2024    | <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="50"> | Top SQL 50                  | 01-05-2024    | <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="50"> |
+| 100 Days Badge              | 19-05-2024    | <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50"> | LeetCode 75                 | 25-05-2024    | <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="50"> |
+| May 2024                    | 30-05-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="50"> | Top 100 Liked               | 20-06-2024    | <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50"> |
+| June 2024                   | 30-06-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="50"> | July 2024                   | 30-07-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="50"> |
+| July 2024                   | 30-07-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="50"> | 200 Days Badge              | 29-08-2024    | <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50"> |
+| August 2024                 | 31-08-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" width="50"> | September 2024              | 30-09-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="50"> |
+| September 2024              | 30-09-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="50"> | October 2024                | 31-10-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" width="50"> |
+| October 2024                | 31-10-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" width="50"> | November 2024               | 30-11-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" width="50"> |
+| November 2024               | 30-11-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" width="50"> | Annual Badge 2024           | 07-12-2024    | <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="50"> |
+| December 2024               | 31-12-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="50"> | January 2025                | 31-01-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" width="50"> |
+| January 2025                | 31-01-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" width="50"> | February 2025               | 28-02-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="50"> |
+| February 2025               | 28-02-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="50"> | March 2025                  | 31-03-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="50"> |
+| March 2025                  | 31-03-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="50"> | 100 Days Badge (2025)       | 11-04-2025    | <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="50"> |
+| May 2025                    | 31-05-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width="50"> | 50 Days Badge (2025)        | 20-02-2025    | <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="50"> |
+| July 2025                   | 31-07-2025    | <img src="https://leetcode.com/static/images/badges/2025/gif/2025-07.gif" width="50"> | 365 Days Badge              | 09-02-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="50"> |
+| August 2025                 | 31-08-2025    | <img src="https://leetcode.com/static/images/badges/2025/gif/2025-08.gif" width="50"> | **500 Days Badge**          | **28-06-2025**| <img src="https://assets.leetcode.com/static_assets/others/25500.gif" width="50"> |
+|                             |               |      | June 2025                   | 30-06-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="50"> |
 
 </div>
 
-## 🏆 LeetCode Badges (2024–2025)
-
-| Badge Name               | Earned On     | Logo |
-|--------------------------|---------------|------|
-| Introduction to Pandas   | 26-02-2024    | <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="50"> |
-| 50 Days Badge            | 30-03-2024    | <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50"> |
-| April 2024               | 30-04-2024    | <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="50"> |
-| Top SQL 50               | 01-05-2024    | <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="50"> |
-| 100 Days Badge           | 19-05-2024    | <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50"> |
-| LeetCode 75              | 25-05-2024    | <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="50"> |
-| May 2024                 | 30-05-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" width="50"> |
-| Top 100 Liked            | 20-06-2024    | <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50"> |
-| June 2024                | 30-06-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="50"> |
-| July 2024                | 30-07-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" width="50"> |
-| 200 Days Badge           | 29-08-2024    | <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50"> |
-| August 2024              | 31-08-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" width="50"> |
-| September 2024           | 30-09-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="50"> |
-| October 2024             | 31-10-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" width="50"> |
-| November 2024            | 30-11-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" width="50"> |
-| Annual Badge 2024        | 07-12-2024    | <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="50"> |
-| December 2024            | 31-12-2024    | <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="50"> |
-| January 2025             | 31-01-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" width="50"> |
-| 365 Days Badge           | 09-02-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="50"> |
-| 50 Days Badge (2025)     | 20-02-2025    | <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="50"> |
-| February 2025            | 28-02-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="50"> |
-| March 2025               | 31-03-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="50"> |
-| 100 Days Badge (2025)    | 11-04-2025    | <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="50"> |
-| May 2025                 | 31-05-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width="50"> |
-| **500 Days Badge**       | **28-06-2025**| <img src="https://assets.leetcode.com/static_assets/others/25500.gif" width="50"> |
-| June 2025                | 30-06-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="50"> |
-| July 2025                | 31-07-2025    | <img src="https://leetcode.com/static/images/badges/2025/gif/2025-07.gif" width="50"> |
-| August 2025              | 31-08-2025    | <img src="https://leetcode.com/static/images/badges/2025/gif/2025-08.gif" width="50"> |
-
-> ✅ **You’re on track to hit 500 Days of Code on LeetCode — an elite milestone!**
+> ✅ **You’re on track to hit 500 Days of Code on LeetCode — an elite milestone achieved by less than 1% of users!**
 
 ---
 
@@ -238,12 +210,6 @@
   <a href="https://github.com/pramod2021-24it/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pramod Maurya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pramod2021-24it&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 <br/>
