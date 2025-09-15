@@ -8,6 +8,7 @@
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 
+
 - 🥋 Passionate about **Data Science, Programming, and Problem Solving** — always eager to learn and apply new skills.
 - 👨‍💻 Love exploring emerging technologies and building real-world solutions.
 - 👁‍🗨 My superpower? **Rapid learning + implementation** — I master tools fast and use them to solve practical problems.
