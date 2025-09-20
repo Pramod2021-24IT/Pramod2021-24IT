@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Pramod Kumar Maurya</b></h1>
 <h2 align="center"><b>A passionate Data Scientist from India</b></h2>
-
 <h4 align="center">
   <b>Software Engineer 👨‍💻 | Problem Solving Enthusiast 🧠 | 500+ Days of Code 🔥 | LeetCode Top 40% 🌍 | 300+ DSA Problems Solved | Institute 2nd Rank @GFG | 5K+ LinkedIn Views ❤️</b>
 </h4>
+
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 - 🥋 Passionate about **Data Science, Programming, and Problem Solving** — always eager to learn and apply new skills.
