@@ -117,7 +117,7 @@
 | May 2025                    | 31-05-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width="50"> | 50 Days Badge (2025)        | 20-02-2025    | <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="50"> |
 | July 2025                   | 31-07-2025    | <img src="https://leetcode.com/static/images/badges/2025/gif/2025-07.gif" width="50"> | 365 Days Badge              | 09-02-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="50"> |
 | August 2025                 | 31-08-2025    | <img src="https://leetcode.com/static/images/badges/2025/gif/2025-08.gif" width="50"> | **500 Days Badge**          | **28-06-2025**| <img src="https://assets.leetcode.com/static_assets/others/25500.gif" width="50"> |
-|                             |               |      | June 2025                   | 30-06-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="50"> |
+| September 2025              | 30-09-2025    | <img src="https://leetcode.com/static/images/badges/2025/gif/2025-09.gif" width="50">     | June 2025                   | 30-06-2025    | <img src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="50"> |
 
 </div>
 
