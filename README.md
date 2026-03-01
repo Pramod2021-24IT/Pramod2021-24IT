@@ -5,6 +5,8 @@
 </h4>
 
 
+
+
 ## 🙋‍♂️ About Me
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
 - 🥋 Passionate about **Data Science, Programming, and Problem Solving** — always eager to learn and apply new skills.
