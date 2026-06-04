@@ -12,7 +12,6 @@
 - 👨‍💻 Love exploring emerging technologies and building real-world solutions.
 - 👁‍🗨 My superpower? **Rapid learning + implementation** — I master tools fast and use them to solve practical problems.
 - 📔 [View My Resume](https://drive.google.com/file/d/1b5X5q-pD391lkjkujUhc5EtkzP50fdRa/view?usp=sharing)
-- 👨‍🏫 Mentor at [SamarthyClassesGkp](https://linktr.ee/pramodmaurya)
 - 📞 Book a 1:1 Career Guidance Session with me!
 - 👨‍💻 Check out my **coding profiles**: [LinkTree](https://linktr.ee/pramodmaurya)
 - 📘 Currently expanding my stack in **AI, ML, and Deep Learning**
